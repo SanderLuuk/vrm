@@ -1,0 +1,59 @@
+[33mcommit dbcb6d51dd23c5e1ad869a6f1a1ee51034ae0b1c[m
+Author: Sander Luuk <sander.luuk@khk.ee>
+Date:   Wed Aug 30 12:45:18 2017 +0300
+
+    create a bookings table
+
+[33mcommit 117836c9ca844703b2db8df07c1c9fc7b1073534[m
+Author: Sander Luuk <sander.luuk@khk.ee>
+Date:   Wed Aug 30 12:32:13 2017 +0300
+
+    Created a connection with database
+
+[33mcommit b987398f09c46b67c2791cd2da00bbbefbad4e04[m
+Author: Sander Luuk <sander.luuk@khk.ee>
+Date:   Wed Aug 30 11:25:09 2017 +0300
+
+    Install Doctrine DBAL with Composer, Update documentation
+
+[33mcommit 222f699261871e83dc71f536899b84c2f189bef6[m
+Author: Sander Luuk <sander.luuk@khk.ee>
+Date:   Wed Aug 30 11:07:03 2017 +0300
+
+    Separate header and footer as a separate components by having different files
+
+[33mcommit d89f96aa40734a10c1f694949b3d237f40af3725[m
+Author: Sander Luuk <sander.luuk@khk.ee>
+Date:   Wed Aug 30 10:47:27 2017 +0300
+
+    general html and css style to the Booking base page
+
+[33mcommit 8693f1d9a5b1a1185c495ac0029af3773b2ec57f[m
+Author: Sander Luuk <sander.luuk@khk.ee>
+Date:   Wed Aug 30 10:32:23 2017 +0300
+
+    updated README.md file
+
+[33mcommit 60f9666a00e9dd6e80acf29ff162988ad85a5ca8[m
+Author: Sander Luuk <sander.luuk@khk.ee>
+Date:   Wed Aug 30 09:56:59 2017 +0300
+
+    Use Twig for templating, create a url for creating bookings
+
+[33mcommit 7c9c861624d783496491e742068950ea7e70ba9c[m
+Author: Sander Luuk <sander.luuk@khk.ee>
+Date:   Wed Aug 30 09:34:46 2017 +0300
+
+     Create front-controller index.php and boostrap Silex
+
+[33mcommit 59f71b82826401dadde0e8feb9d65ba0a485a04c[m
+Author: Sander Luuk <sander.luuk@khk.ee>
+Date:   Wed Aug 30 09:03:36 2017 +0300
+
+    adding silex to my project
+
+[33mcommit c46c6d2ab4f909015a181977387aec8872cf461b[m
+Author: Sander Luuk <sander.luuk@khk.ee>
+Date:   Tue Aug 29 09:51:42 2017 +0300
+
+    Added readme file
